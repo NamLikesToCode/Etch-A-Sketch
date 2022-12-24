@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.board {
+    width: 500px;
+    height: 500px;
+    border: solid 1px black;
+    display: grid;
+    
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 300px;
+    margin: 30px;
+
+
+
+
+}
+
